@@ -10,16 +10,6 @@ This project performs an exploratory data analysis (EDA) on a public dataset of 
   - Which countries are most represented?
   - How has Netflix's content evolved over the years?
 
-## 📁 Repository Structure
-
-netflix_data_analysis/
-├── data/
-│ └── netflix_titles.csv
-├── images/
-│ └── genre_distribution.png
-├── notebook.ipynb
-└── README.md
-
 ## 🛠️ Tools and Libraries
 
 - Python 3.10+
