@@ -64,6 +64,17 @@ Netflix offers a diverse range of titles across genres, countries, and content t
 
 ---
 
+## 🌍 Top 5 Countries by Recent Netflix Additions (Last 5 Years)
+
+To understand which regions are contributing the most to Netflix’s recent content growth, we analyzed titles added to the platform since 2019. We grouped the data by `country` and `type` (Movie or TV Show), and filtered only the top 5 countries based on total new additions.
+
+This breakdown shows not only which countries lead in volume, but also how their contributions are distributed across content formats.
+
+### 📊 Visualization
+![Top 5 Countries by Recent Additions](images/top5_countries_recent_additions.png)
+
+---
+
 ## 💼 Skills Demonstrated
 - Data wrangling and cleaning with `pandas`
 - String manipulation and data normalization
